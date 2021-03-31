@@ -65,7 +65,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 
 }
@@ -82,7 +82,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 
@@ -99,7 +99,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 .rough:hover{
@@ -115,7 +115,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 .griff:hover{
@@ -131,7 +131,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 .griffhead:hover{
@@ -147,7 +147,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 .linegriff:hover{
@@ -163,7 +163,7 @@ body  {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 5s;
+  animation-duration: 3s;
   filter: drop-shadow(0 0 30px #CEFA05);
 }
 .secretsgriff:hover{
