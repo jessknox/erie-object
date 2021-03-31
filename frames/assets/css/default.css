@@ -106,7 +106,7 @@ img {
   filter: drop-shadow(0 0 30px #FCAE1E);
   animation-play-state: paused;
 }
-.box1{
+/* .box1{
   width: 100%;
   height: 10%;
   background-color: #CEFA05;
@@ -114,3 +114,4 @@ img {
 .box1:hover {
   opacity: 0.5;
 }
+ */
