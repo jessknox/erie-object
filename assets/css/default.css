@@ -15,8 +15,10 @@ img {
   width:100%;
 }
 
- body  {
-  background-image: url("./assets/images/eriebg.gif");
+body  {
+  background-image: url("./assets/images/eriebackground.gif");
+  height: 100%;
+  width: 100%;
 }
 
 @keyframes spin {
@@ -38,7 +40,7 @@ img {
 
 .go-background{
   width: 100%;
-  height: 50%;
+  height: 100%;
   border-color: green;
   float:left;
   padding: 0;
