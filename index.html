@@ -21,9 +21,9 @@
     <img src="./assets/images/eriebg.gif" alt="">
 </div>
 
-<!-- <div class="go-hover">
+<div class="go-hover">
     <img src="./assets/images/eriebackground.gif" alt="">
-</div> -->
+</div>
 
 <div class="fullsmooth">
     <img src="./assets/images/fullsmooth.png">
