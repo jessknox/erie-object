@@ -32,18 +32,16 @@ body  {
 }
 
 
-
-
-/* .go-background{
+.go-background{
   width: 100%;
   height: 100%;
   border-color: green;
   float:left;
   padding: 0;
   margin: 0;
-} */
+}
 
-/* .go-hover{
+.go-hover{
   width: 100%;
   height: 100%;
   top: 0px;
@@ -54,7 +52,7 @@ body  {
 }
 .go-hover:hover {
   opacity: 0%;
-} */
+}
 
 .fullsmooth{
   width: 10%;
