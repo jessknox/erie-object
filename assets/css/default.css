@@ -15,9 +15,9 @@ img {
   width:100%;
 }
 
-/* body  {
+ body  {
   background-image: url("./assets/images/eriebackground.gif");
-} */
+}
 
 @keyframes spin {
   from{
