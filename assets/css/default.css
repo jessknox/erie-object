@@ -16,9 +16,10 @@ img {
 }
 
 body  {
-  background-image: url("./assets/images/eriebackground.gif");
+  background-image: url("./assets/images/eriebg.gif");
   height: 100%;
   width: 100%;
+  background-color: black;
 }
 
 @keyframes spin {
@@ -31,21 +32,16 @@ body  {
 }
 
 
-.go-body {
-  width: 100%;
-  /* padding: 0; */
-  margin: 0;
-  background-color: black;
-}
 
-.go-background{
+
+/* .go-background{
   width: 100%;
   height: 100%;
   border-color: green;
   float:left;
   padding: 0;
   margin: 0;
-}
+} */
 
 /* .go-hover{
   width: 100%;
@@ -65,11 +61,15 @@ body  {
   position: fixed;
   top: 0px;
   right: 20%;
+  /* outline-style: solid;
+  outline-color: red;
+  outline-width: medium; */
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   animation-duration: 5s;
   filter: drop-shadow(0 0 30px #CEFA05);
+
 }
 .fullsmooth:hover{
   filter: drop-shadow(0 0 30px #FCAE1E);
@@ -108,6 +108,71 @@ body  {
   filter: drop-shadow(0 0 30px #FCAE1E);
   animation-play-state: paused;
 }
+
+.griff{
+  width: 10%;
+  position: fixed;
+  top: 30%;
+  right: 60%;
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  filter: drop-shadow(0 0 30px #CEFA05);
+}
+.griff:hover{
+  filter: drop-shadow(0 0 30px #FCAE1E);
+  animation-play-state: paused;
+}
+
+.griffhead{
+  width: 10%;
+  position: fixed;
+  top: 10%;
+  right: 80%;
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  filter: drop-shadow(0 0 30px #CEFA05);
+}
+.griffhead:hover{
+  filter: drop-shadow(0 0 30px #FCAE1E);
+  animation-play-state: paused;
+}
+
+.linegriff{
+  width: 10%;
+  position: fixed;
+  top: 50%;
+  right: 80%;
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  filter: drop-shadow(0 0 30px #CEFA05);
+}
+.linegriff:hover{
+  filter: drop-shadow(0 0 30px #FCAE1E);
+  animation-play-state: paused;
+}
+
+.secretsgriff{
+  width: 10%;
+  position: fixed;
+  top: 50%;
+  right: 80%;
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  filter: drop-shadow(0 0 30px #CEFA05);
+}
+.secretsgriff:hover{
+  filter: drop-shadow(0 0 30px #FCAE1E);
+  animation-play-state: paused;
+}
+
 /* .box1{
   width: 100%;
   height: 10%;
