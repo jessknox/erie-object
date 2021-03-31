@@ -112,7 +112,7 @@ body  {
 .griff{
   width: 10%;
   position: fixed;
-  top: 30%;
+  top: 80%;
   right: 60%;
   animation-name: spin;
   animation-timing-function: linear;
@@ -160,8 +160,8 @@ body  {
 .secretsgriff{
   width: 10%;
   position: fixed;
-  top: 50%;
-  right: 80%;
+  top: 30%;
+  right: 5%;
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
@@ -172,4 +172,3 @@ body  {
   filter: drop-shadow(0 0 30px #FCAE1E);
   animation-play-state: paused;
 }
-
